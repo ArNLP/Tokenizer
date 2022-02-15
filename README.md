@@ -3,3 +3,8 @@
 - Whitespace tokenizer
 - WordPiece Tokenizer
 - BPE Tokenizer 
+---------------------------------------------------------------------------------------
+BPE Tokenizer 
+مقسم نصوص خاص بكل لهجةبإسلوب ال BPE Byete pairs encoding 
+- مفسم نصوص لللهجةالمصرية 
+[BPE_Egyptian](https://github.com/user/repo/blob/branch/other_file.md)
