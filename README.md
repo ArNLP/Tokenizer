@@ -7,4 +7,4 @@
 BPE Tokenizer 
 مقسم نصوص خاص بكل لهجةبإسلوب ال BPE Byete pairs encoding 
 - مفسم نصوص لللهجةالمصرية 
-[BPE_Egyptian](https://github.com/user/repo/blob/branch/other_file.md)
+[BPE_Egyptian](https://github.com/ArNLP/Tokenizer/tree/main/BPE_Egyptian)
