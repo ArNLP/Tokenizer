@@ -1,6 +1,6 @@
-# مقسم نصوص للهجة المصرية
+# مقسم نصوص للهجة المصرية Egyptıan dialect Tokenizer
 
-البيانات منشورة بعنوان في Harvard Dataverse 
+البيانات منشورة في  Harvard Dataverse بعنوان 
    
    Rania Kora; Ammar Mohammed, 2019, "Corpus on Arabic Egyptian tweets"
    
